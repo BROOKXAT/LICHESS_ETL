@@ -1,0 +1,4 @@
+pandas==1.2.3
+sqlalchemy==1.4.31
+requests==2.26.0
+berserk
